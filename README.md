@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CognitioAnalitica
+- 🌱 I’m currently learning data analysis and database
